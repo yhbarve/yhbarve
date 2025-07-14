@@ -1,3 +1,3 @@
 - 🔭 I’m a 4th year CS student at the University of Waterloo.
-- 💼 I have 1 year of software development work experience.
+- 💼 I have over 12 months of industry experience working as a software development, data engineer & SEO engineer.
 - 📫 How to reach me: yhbarve@uwaterloo.ca
