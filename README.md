@@ -1,5 +1,4 @@
 - 🔭 I’m a 5th year CS student at the University of Waterloo.
-- 🧑🏻‍💻 Currently working as a Software Engineering Co-op at Nokia (Sep - Dec 2025)
-- 💼 I have over 12 months of industry experience working as a software development, data engineer & SEO engineer.
+- 💼 I have over 16 months of industry experience working as a software engineer (most recently at Nokia).
 - 🌐 Checkout my website: https://yhbarve.me
 - 📫 How to reach me: yhbarve@uwaterloo.ca
