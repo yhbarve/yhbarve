@@ -1,4 +1,4 @@
-- 🔭 I’m a 5th year CS student at the University of Waterloo.
-- 💼 I have over 16 months of industry experience working as a software engineer (most recently at Nokia).
-- 🌐 Checkout my website: https://yhbarve.me
-- 📫 How to reach me: yhbarve@uwaterloo.ca
+- 🔭 Associate Software Engineer, Capital One Canada.
+- 💼 University of Waterloo, CS '26
+- 🌐 Website, https://yhbarve.me
+- 📫 Email, yhbarve@uwaterloo.ca
